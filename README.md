@@ -1,4 +1,4 @@
-<h1>БасПасс</h1>
+<h1>Мой домофон</h1>
 
 <p align="center"><img width="425" height="425" src="images/logo.png"></p>
 
