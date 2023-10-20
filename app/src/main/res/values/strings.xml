@@ -1,0 +1,18 @@
+<resources>
+    //App name
+    <string name="app_name">Мой домофон</string>
+
+    //Images
+    <string name="main_image_button_description">logo</string>
+    <string name="horizontal_logo_description">banner</string>
+
+    //Authorization screen
+    <string name="authorisation_screen_header_description">Register_Header</string>
+    <string name="authorisation_screen_header_text">Авторизуйтесь для начала работы:</string>
+    <string name="data_input_field_header_description">Phone_TextView</string>
+    <string name="phone_input_field_header_text">Номер телефона:</string>
+    <string name="phone_input_field_hint">+7</string>
+    <string name="password_input_field_header_text">Пароль:</string>
+    <string name="authorization_button_description">Authorization_button</string>
+    <string name="authorization_button_text">Войти</string>
+</resources>

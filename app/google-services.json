@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686413115176",
+    "project_id": "opendoors-90780",
+    "storage_bucket": "opendoors-90780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686413115176:android:4bdecd330eff804317aa1d",
+        "android_client_info": {
+          "package_name": "ru.accesstech.opendooors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686413115176-mnbl90bkurhpaimigtdq0cmf5ptvoi9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.accesstech.opendooors",
+            "certificate_hash": "6fcae6f3d1c9805115ee701cbbb193d5fc198644"
+          }
+        },
+        {
+          "client_id": "686413115176-ne1acm385kfbnq8b02oh2c77e92mro7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEeQSPWnWBjRl7LbjNxE8cHkgI4yc8ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686413115176-ne1acm385kfbnq8b02oh2c77e92mro7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
